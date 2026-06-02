@@ -2,7 +2,6 @@
 
 const nextConfig = {
   reactStrictMode: true,
-  distDir: "deploy",
   env: {
     GOOGLE_SCRIPT_URL: process.env.GOOGLE_SCRIPT_URL,
   },
