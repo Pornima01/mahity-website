@@ -1,0 +1,425 @@
+"use client";
+import Image from "next/image";
+
+export default function Home() {
+  const services = [
+    {
+      title: "Azure Sentinel Deployment & Configuration ",
+      icon: "/images/Microsoft_9.png",
+      items: [
+        "End-to-end Sentinel setup and integration ",
+        "Log ingestion and data connectors setup ",
+        "SIEM rule tuning for optimized threat detection ",
+      ],
+    },
+    {
+      title: "Threat Detection & Security Monitoring ",
+      icon: "/images/Microsoft_11.png",
+      items: [
+        "24/7 security event monitoring & analytics ",
+        "AI-powered threat intelligence & detection ",
+        "Correlation of security events across environments ",
+      ],
+    },
+    {
+      title: "Security Incident Investigation & Response ",
+      icon: "/images/Microsoft_12.png",
+      items: [
+        "Automated investigation of alerts ",
+        "SOAR playbook development for incident response ",
+        "Threat hunting & proactive security analysis ",
+      ],
+    },
+    {
+      title: " Integration with Microsoft Security Solutions ",
+      icon: "/images/Microsoft_10.png",
+      items: [
+        "Microsoft Defender for Endpoint, Identity, and Office 365 ",
+        "Defender for Cloud and Microsoft Purview integration ",
+        "Custom connectors for third-party security tools (Palo Alto, Cisco, Splunk, etc.) ",
+      ],
+    },
+    {
+      title: " Automated Threat Response & SOAR Orchestration ",
+      icon: "/images/Microsoft_13.png",
+      items: [
+        "Automated remediation workflows ",
+        "Playbook creation for incident response automation ",
+        "Threat intelligence enrichment & response actions ",
+      ],
+    },
+    {
+      title: "Security & Compliance Reporting ",
+      icon: "/images/Microsoft_9.png",
+      items: [
+        "Continuous compliance monitoring ",
+        "Advanced security dashboards & analytics ",
+        "Regulatory compliance mapping (ISO 27001, NIST, GDPR, HIPAA) ",
+      ],
+    },
+    {
+      title: "Managed Azure Sentinel Services ",
+      icon: "/images/Microsoft_13.png",
+      items: [
+        "24/7 managed detection & response (MDR) ",
+        "Continuous threat intelligence updates ",
+        "Custom security policies & rule tuning ",
+      ],
+    },
+  ];
+
+  // Similar Services data
+  const similarServices = [
+    {
+      id: 1,
+      title: "Azure Database Migration Service",
+      image: "/images/service_10.png",
+      link: "/azure/database-migration-service",
+    },
+    {
+      id: 2,
+      title: "Azure Kubernetes Service (AKS) Migration",
+      image: "/images/service_7.png",
+      link: "/azure/kubernetes-service-migration",
+    },
+    {
+      id: 3,
+      title: "Azure Site Recovery (ASR)",
+      image: "/images/service_7.png",
+      link: "/azure/site-recovery",
+    },
+    {
+      id: 4,
+      title: "Cost Management & Optimization",
+      image: "/images/service_9.png",
+      link: "/azure/cost-management-optimization",
+    },
+    {
+      id: 5,
+      title: "Azure Managed Services",
+      image: "/images/service_7.png",
+      link: "/azure/managed-services",
+    },
+    {
+      id: 6,
+      title: "HPC (High-Performance Computing) Migration",
+      image: "/images/service_7.png",
+      link: "/azure/hpc-migration",
+    },
+  ];
+
+  return (
+    <div className="min-h-screen bg-gradient-to-b from-white to-blue-400 ">
+      <main className="container mx-auto px-4 ">
+        <div className=" rounded-lg overflow-hidden mb-12">
+          <div className="flex flex-col md:flex-row">
+            <div className="w-full  h-2/5 md:w-1/2 p-8  md:p-12 flex flex-col justify-center relative">
+              <h1 className="absolute top-16 left-2/4 transform -translate-x-1/2 -translate-y-1/2 text-4xl text-gray-700 font-semibold bg-opacity-70 w-full py-2 rounded-md text-center sm:text-center">
+                Sentinel Migration
+              </h1>
+
+              <div className="relative  w-full md:h-40">
+                <Image
+                  src="/images/MicrosoftAzure_1.png"
+                  alt="Azure Cloud Illustration"
+                  className="object-contain"
+                  width={500}
+                  height={200}
+                />
+              </div>
+            </div>
+
+            <div
+              className="w-full  md:w-1/2 p-4 sm:px-8 md:p-12 flex flex-col justify-center text-white"
+              style={{
+                background:
+                  "linear-gradient(to bottom, rgb(53, 182, 236), #60a5fa)",
+              }}
+            >
+              {/* Image positioned at the top - Hidden on small screens */}
+              <div className="absolute top-72 left-1/6 transform -translate-x-1/2 -translate-y-1/2 hidden md:block">
+                <Image
+                  src="/images/MicrosoftAzure_2.png"
+                  alt="Azure Cloud Illustration"
+                  width={450}
+                  height={300}
+                  className="object-contain w-40 md:w-48 md:-mt-6 "
+                />
+              </div>
+
+              {/* Content */}
+              <p className="text-xl sm:mb-6 md:mt-8 text-white font-bold md:ml-28 ">
+                Our Azure Sentinel Service empowers organizations with advanced
+                threat detection, intelligent security analytics, and automated
+                response capabilities. As an Azure partner, we help businesses
+                strengthen their security posture by leveraging Microsofts
+                cloud- native Security Information and Event Management (SIEM) &
+                Security Orchestration, Automation, and Response (SOAR)
+                solution.
+              </p>
+
+              <div className="flex justify-center md:justify-start mt-6 md:ml-28">
+                <button
+                  onClick={() => (window.location.href = "/contact-us")}
+                  className="bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-6 rounded-md w-max transition duration-300"
+                >
+                  Talk to Expert
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="">
+          <div className=" pb-24 pt-20 ">
+            <h2 className="text-4xl font-bold text-gray-700 mb-4">
+              Key Service Propositions
+            </h2>
+            <ul className="list-disc ml-3 pb-6 list-inside mt-4 space-y-2">
+              <li>
+                Cloud-Native SIEM & SOAR – Scalable, AI-driven security
+                analytics with real-time monitoring.{" "}
+              </li>
+              <li>
+                {" "}
+                Proactive Threat Detection – Detect, investigate, and respond to
+                threats across hybrid and multi-cloud environments.
+              </li>
+              <li>
+                Automated Incident Response – Leverage SOAR capabilities to
+                automate remediation and threat mitigation
+              </li>
+              <li>
+                Intelligent Security Insights – AI and machine learning-driven
+                threat intelligence for faster decision-making.
+              </li>
+              <li>
+                Integration with Microsoft Security Stack – Seamless integration
+                with Microsoft Defender, M365, Defender for Cloud, and
+                third-party security tools.
+              </li>
+              <li>
+                Compliance & Governance – Meet regulatory compliance
+                requirements with advanced security monitoring and reporting.{" "}
+              </li>
+            </ul>
+
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+              <div className="flex items-start space-x-4">
+                <div className=" p-3 rounded-lg">
+                  <Image
+                    src="/images/Microsoft_3.png"
+                    alt="Monitoring Icon"
+                    width={40}
+                    height={40}
+                  />
+                </div>
+                <div className="mt-4">
+                  <h3 className="text-xl  font-bold text-gray-700">
+                    24/7 Monitoring & Support
+                  </h3>
+                </div>
+              </div>
+
+              <div className="flex items-start space-x-4">
+                <div className=" p-3 rounded-lg">
+                  <Image
+                    src="/images/Microsoft_4.png"
+                    alt="Cost Icon"
+                    width={40}
+                    height={40}
+                  />
+                </div>
+                <div className="mt-4">
+                  <h3 className="text-xl font-bold text-gray-700">
+                    Cost Optimization
+                  </h3>
+                </div>
+              </div>
+
+              <div className="flex items-start space-x-4">
+                <div className=" p-3 rounded-lg">
+                  <Image
+                    src="/images/Microsoft_5.png"
+                    alt="Security Icon"
+                    width={40}
+                    height={40}
+                  />
+                </div>
+                <div className="mt-4">
+                  <h3 className="text-xl font-bold text-gray-700">
+                    Security & Compliance
+                  </h3>
+                </div>
+              </div>
+
+              <div className="flex items-start space-x-4">
+                <div className=" p-3 rounded-lg">
+                  <Image
+                    src="/images/Microsoft_6.png"
+                    alt="Scalability Icon"
+                    width={40}
+                    height={40}
+                  />
+                </div>
+                <div className="mt-4">
+                  <h3 className="text-xl font-bold text-gray-700">
+                    Scalability & Performance
+                  </h3>
+                </div>
+              </div>
+
+              <div className="flex items-start space-x-4">
+                <div className=" p-3 rounded-lg">
+                  <Image
+                    src="/images/Microsoft_7.png"
+                    alt="Automation Icon"
+                    width={40}
+                    height={40}
+                  />
+                </div>
+                <div className="mt-4">
+                  <h3 className="text-xl font-bold text-gray-700">
+                    Automation & DevOps
+                  </h3>
+                </div>
+              </div>
+
+              <div className="flex items-start space-x-4">
+                <div className=" p-3 rounded-lg">
+                  <Image
+                    src="/images/Microsoft_8.png"
+                    alt="Disaster Recovery Icon"
+                    width={40}
+                    height={40}
+                  />
+                </div>
+                <div className="mt-4">
+                  <h3 className="text-xl  text-gray-700 font-bold">
+                    Disaster Recovery & Backup
+                  </h3>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+
+      <div className="bg-blue-50 py-12 px-4 sm:px-6 lg:px-8">
+        <div className="max-w-7xl mx-auto">
+          <h2 className="text-3xl font-medium text-gray-700 mb-12">
+            Service Offerings
+          </h2>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {services.map((service, index) => (
+              <div
+                key={index}
+                className="bg-white rounded-lg shadow-sm p-6 flex flex-col h-full"
+              >
+                <div className="flex items-center mb-4">
+                  <div className="w-12 h-12 flex-shrink-0 mr-4">
+                    <Image
+                      src={service.icon}
+                      alt={`${service.title} icon`}
+                      width={50}
+                      height={50}
+                      className="w-10 h-10 text-blue-600 mt-2"
+                    />
+                  </div>
+                  <h3 className="text-lg  text-gray-700 font-bold">
+                    {service.title}
+                  </h3>
+                </div>
+
+                <ul className="mt-4 space-y-3">
+                  {service.items.map((item, itemIndex) => (
+                    <li key={itemIndex} className="flex">
+                      <span className="text-blue-400 mr-2">•</span>
+                      <span className="text-gray-600 text-sm">{item}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        {/* Similar service we provide section  */}
+
+        <section className="mb-8 mx-4 sm:mx-12 md:mx-20 lg:mx-28 px-4 sm:px-6 md:px-12 lg:px-28 pt-28">
+          <h2 className="text-3xl text-gray-700 font-bold text-center mb-12">
+            Similar Services We Provide
+          </h2>
+
+          <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 gap-6 relative">
+            {/* Left side illustration */}
+            <div
+              className="absolute left-0 top-1/4 transform -translate-y-1/2 hidden md:block"
+              style={{ marginLeft: "-80px" }}
+            >
+              <Image
+                src="/images/Microsoft_14.png"
+                alt="Technician Illustration"
+                width={400}
+                height={500}
+                className="object-contain pr-36"
+              />
+            </div>
+
+            {/* Service cards */}
+            {similarServices.map((service) => (
+              <div
+                key={service.id}
+                className="bg-white py-6 rounded-3xl shadow-sm p-4 flex flex-col items-center mx-auto w-full max-w-xs cursor-pointer hover:shadow-md transition-all"
+                onClick={() => (window.location.href = service.link)}
+              >
+                <div className="w-12 h-12 mb-4 relative">
+                  <Image
+                    src={service.image}
+                    alt={service.title}
+                    width={48}
+                    height={48}
+                  />
+                </div>
+                <h3 className="text-sm font-medium text-gray-700 text-center">
+                  {service.title}
+                </h3>
+              </div>
+            ))}
+          </div>
+        </section>
+
+        <div className=" pb-24 px-4 md:px-12 lg:px-24 relative">
+          <div className="max-w-7xl mx-auto">
+            <div className="flex flex-col md:flex-row items-center justify-between pt-8 md:pt-24 relative">
+              {/* Left side illustration */}
+              <div className="w-full md:w-1/2 relative mb-10 md:mb-0 flex justify-center md:justify-start">
+                <Image
+                  src="/images/Microsoft_15.png"
+                  alt="People working with technology"
+                  width={800}
+                  height={700}
+                  className="object-contain"
+                />
+              </div>
+
+              {/* Right side content */}
+              <div className="w-full  md:w-1/2 space-y-8 flex flex-col items-center md:items-center">
+                <h1 className="text-3xl md:text-4xl font-bold text-gray-700">
+                  Have any questions?
+                </h1>
+                <button
+                  onClick={() => (window.location.href = "/contact-us")}
+                  className="bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-6 rounded-md w-max transition duration-300"
+                >
+                  Talk to Expert
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}

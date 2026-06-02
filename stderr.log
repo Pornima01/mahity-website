@@ -1,0 +1,1269 @@
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/dolenhjy/mahity.com/instrumentation' imported from /home/dolenhjy/mahity.com/server.mjs
+Did you mean to import "./instrumentation.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:283:11)
+    at moduleResolve (node:internal/modules/esm/resolve:952:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1188:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:642:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:591:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:574:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:236:38)
+    at ModuleJob._link (node:internal/modules/esm/module_job:130:49) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/dolenhjy/mahity.com/instrumentation'
+}
+
+Node.js v20.19.3
+(node:2293074) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/dolenhjy/mahity.com/instrumentation.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/dolenhjy/mahity.com/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:2293487) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/dolenhjy/mahity.com/instrumentation.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/dolenhjy/mahity.com/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:2293897) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/dolenhjy/mahity.com/instrumentation.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/dolenhjy/mahity.com/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:2332109) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/dolenhjy/mahity.com/instrumentation.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/dolenhjy/mahity.com/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:3912323) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/dolenhjy/mahity.com/instrumentation.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/dolenhjy/mahity.com/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:6987) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/dolenhjy/mahity.com/instrumentation.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/dolenhjy/mahity.com/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:1164760) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/dolenhjy/mahity.com/instrumentation.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/dolenhjy/mahity.com/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:2135305) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/dolenhjy/mahity.com/instrumentation.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/dolenhjy/mahity.com/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+ ⨯ TypeError: e is not a function
+    at stringify (<anonymous>) {
+  digest: '1760784139'
+}
+ ⨯ TypeError: e is not a function
+    at stringify (<anonymous>) {
+  digest: '1760784139'
+}
+ ⨯ [Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined.] {
+  digest: '3288082333'
+}
+[Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined.]
+ ⨯ [Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined.]
+ ⨯ TypeError: e is not a function
+    at stringify (<anonymous>) {
+  digest: '1760784139'
+}
+ ⨯ TypeError: e is not a function
+    at stringify (<anonymous>) {
+  digest: '1760784139'
+}
+ ⨯ [Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined.] {
+  digest: '3288082333'
+}
+[Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined.]
+ ⨯ [Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined.]
+(node:3669949) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/dolenhjy/mahity.com/instrumentation.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/dolenhjy/mahity.com/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:14870) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/dolenhjy/mahity.com/instrumentation.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/dolenhjy/mahity.com/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:233149) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/dolenhjy/mahity.com/instrumentation.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/dolenhjy/mahity.com/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:935808) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/dolenhjy/mahity.com/instrumentation.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/dolenhjy/mahity.com/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:1055001) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/dolenhjy/mahity.com/instrumentation.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/dolenhjy/mahity.com/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:2270795) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/dolenhjy/mahity.com/instrumentation.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/dolenhjy/mahity.com/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:1073975) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/dolenhjy/mahity.com/instrumentation.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/dolenhjy/mahity.com/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:2624170) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/dolenhjy/mahity.com/instrumentation.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/dolenhjy/mahity.com/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:348342) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/dolenhjy/mahity.com/instrumentation.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/dolenhjy/mahity.com/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:480985) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/dolenhjy/mahity.com/instrumentation.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/dolenhjy/mahity.com/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:2155682) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/dolenhjy/mahity.com/instrumentation.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/dolenhjy/mahity.com/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:712730) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/dolenhjy/mahity.com/instrumentation.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/dolenhjy/mahity.com/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:901874) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/dolenhjy/mahity.com/instrumentation.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/dolenhjy/mahity.com/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:1021355) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/dolenhjy/mahity.com/instrumentation.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/dolenhjy/mahity.com/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:688841) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/dolenhjy/mahity.com/instrumentation.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/dolenhjy/mahity.com/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:1711144) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/dolenhjy/mahity.com/instrumentation.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/dolenhjy/mahity.com/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:50122) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/dolenhjy/mahity.com/instrumentation.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/dolenhjy/mahity.com/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:1062100) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/dolenhjy/mahity.com/instrumentation.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/dolenhjy/mahity.com/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:2847423) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/dolenhjy/mahity.com/instrumentation.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/dolenhjy/mahity.com/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+ ⨯ TypeError: e is not a function
+    at stringify (<anonymous>) {
+  digest: '1760784139'
+}
+ ⨯ TypeError: e is not a function
+    at stringify (<anonymous>) {
+  digest: '1760784139'
+}
+ ⨯ [Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined.] {
+  digest: '3288082333'
+}
+[Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined.]
+ ⨯ [Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined.]
+ ⨯ TypeError: e is not a function
+    at stringify (<anonymous>) {
+  digest: '1760784139'
+}
+ ⨯ TypeError: e is not a function
+    at stringify (<anonymous>) {
+  digest: '1760784139'
+}
+ ⨯ [Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined.] {
+  digest: '3288082333'
+}
+[Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined.]
+ ⨯ [Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined.]
+ ⨯ TypeError: e is not a function
+    at stringify (<anonymous>) {
+  digest: '1760784139'
+}
+ ⨯ TypeError: e is not a function
+    at stringify (<anonymous>) {
+  digest: '1760784139'
+}
+ ⨯ [Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined.] {
+  digest: '3288082333'
+}
+[Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined.]
+ ⨯ [Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined.]
+ ⨯ TypeError: e is not a function
+    at stringify (<anonymous>) {
+  digest: '1760784139'
+}
+ ⨯ TypeError: e is not a function
+    at stringify (<anonymous>) {
+  digest: '1760784139'
+}
+ ⨯ [Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined.] {
+  digest: '3288082333'
+}
+[Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined.]
+ ⨯ [Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined.]

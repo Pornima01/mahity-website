@@ -1,0 +1,7 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/dolenhjy/mahity.com"
+PassengerBaseURI "/"
+PassengerNodejs "/home/dolenhjy/nodevenv/mahity.com/20/bin/node"
+PassengerAppType node
+PassengerStartupFile server.mjs
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END

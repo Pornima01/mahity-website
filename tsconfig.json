@@ -1,0 +1,60 @@
+  {
+    "compilerOptions": {
+      "target": "ES2017",
+      "lib": [
+        "dom",
+        "dom.iterable",
+        "esnext"
+      ],
+      "allowJs": true,
+      "skipLibCheck": true,
+      "strict": true,
+      "noEmit": false,
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports": true,
+      "module": "esnext",
+      "moduleResolution": "bundler",
+      "resolveJsonModule": true,
+      "isolatedModules": true,
+      "jsx": "preserve",
+      "incremental": true,
+      "outDir": "dist",
+      "rootDir": "src",
+      "forceConsistentCasingInFileNames": true,
+      "plugins": [
+        {
+          "name": "next"
+        }
+      ],
+      "paths": {
+        "@/*": [
+          "./src/*"
+        ]
+      }
+    },
+    "include": [
+      "deploy/types/**/*.ts",
+      "next-env.d.ts",
+      "src/**/*.ts",
+      "src/**/*.tsx",
+      ".next/types/**/*.ts"
+    ],
+    "exclude": [
+      "node_modules",
+      ".next",
+      "deploy",
+      "tmp",
+      "dist",
+      "next.config.mjs",
+      "tailwind.config.ts",
+      "server.mjs",
+      "postcss.config.js",
+      "postcss.config.mjs",
+      "eslint.config.mjs",
+      "vercel.json",
+      ".env",
+      ".htaccess",
+      "components.json"
+    ]
+  }
+

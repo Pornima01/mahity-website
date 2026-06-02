@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://mahity.com/</loc>
+	<lastmod>2025-03-28T14:37:25+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://mahity.com/careers/</loc>
+	<lastmod>2025-03-28T14:37:25+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://mahity.com/contact-us/</loc>
+	<lastmod>2025-03-28T14:37:25+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://mahity.com/blogs/</loc>
+	<lastmod>2025-03-28T14:37:25+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://mahity.com/privacy-policy/</loc>
+	<lastmod>2025-03-28T14:37:25+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://mahity.com/refund-policy/</loc>
+	<lastmod>2025-03-28T14:37:25+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://mahity.com/terms-of-use/</loc>
+	<lastmod>2025-03-28T14:37:25+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://mahity.com/careers/process-automation-engineer/</loc>
+	<lastmod>2025-03-28T14:37:27+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/careers/kubernetes-administrator/</loc>
+	<lastmod>2025-03-28T14:37:27+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/careers/api-administrator/</loc>
+	<lastmod>2025-03-28T14:37:27+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/careers/automation-engineer/</loc>
+	<lastmod>2025-03-28T14:37:27+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/careers/kafka-administrator/</loc>
+	<lastmod>2025-03-28T14:37:27+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/careers/openshift-administrator/</loc>
+	<lastmod>2025-03-28T14:37:27+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/blogs/redhat-blogs/</loc>
+	<lastmod>2025-03-28T14:37:29+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/blogs/aws-blogs/</loc>
+	<lastmod>2025-03-28T14:37:29+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/blogs/access-redhat-blogs/</loc>
+	<lastmod>2025-03-28T14:37:29+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/blogs/cncf-resources-blogs/</loc>
+	<lastmod>2025-03-28T14:37:29+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/blogs/redhat-developers-blogs/</loc>
+	<lastmod>2025-03-28T14:37:29+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/blogs/kdnuggets-blogs/</loc>
+	<lastmod>2025-03-28T14:37:29+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/blogs/amazon-science-blogs/</loc>
+	<lastmod>2025-03-28T14:37:29+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/blogs/redhat-research-blogs/</loc>
+	<lastmod>2025-03-28T14:37:29+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/blogs/cncf-kubeweekly-blogs/</loc>
+	<lastmod>2025-03-28T14:37:29+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/learning/google-classroom/</loc>
+	<lastmod>2025-03-28T14:37:32+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/aws/managed-service/</loc>
+	<lastmod>2025-03-28T14:37:32+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/aws/database-migration-service/</loc>
+	<lastmod>2025-03-28T14:37:33+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/aws/server-migration-service/</loc>
+	<lastmod>2025-03-28T14:37:33+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/aws/application-migration-service/</loc>
+	<lastmod>2025-03-28T14:37:33+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/aws/eks-management-service/</loc>
+	<lastmod>2025-03-28T14:37:34+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/aws/hpc-migration/</loc>
+	<lastmod>2025-03-28T14:37:34+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/azure/managed-services/</loc>
+	<lastmod>2025-03-28T14:37:35+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/azure/database-migration-service/</loc>
+	<lastmod>2025-03-28T14:37:35+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/azure/kubernetes-service-migration/</loc>
+	<lastmod>2025-03-28T14:37:36+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/azure/site-recovery/</loc>
+	<lastmod>2025-03-28T14:37:36+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/azure/cost-management-optimization/</loc>
+	<lastmod>2025-03-28T14:37:37+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/azure/sentinel-migration/</loc>
+	<lastmod>2025-03-28T14:37:37+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/gcp/managed-services/</loc>
+	<lastmod>2025-03-28T14:37:38+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/azure/hpc-migration/</loc>
+	<lastmod>2025-03-28T14:37:38+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/gcp/google-cost-management/</loc>
+	<lastmod>2025-03-28T14:37:39+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/gcp/google-kubernetes-service/</loc>
+	<lastmod>2025-03-28T14:37:39+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/gcp/google-database-migration/</loc>
+	<lastmod>2025-03-28T14:37:40+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/gcp/google-application-migration/</loc>
+	<lastmod>2025-03-28T14:37:40+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/red-hat/openshift-managemnet/</loc>
+	<lastmod>2025-03-28T14:37:41+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/gcp/google-hpc-migration/</loc>
+	<lastmod>2025-03-28T14:37:41+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/red-hat/multi-cluster-management/</loc>
+	<lastmod>2025-03-28T14:37:42+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/red-hat/kubernetes-security/</loc>
+	<lastmod>2025-03-28T14:37:42+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/red-hat/enterprise-container-registry/</loc>
+	<lastmod>2025-03-28T14:37:43+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/red-hat/openshift-virtualization/</loc>
+	<lastmod>2025-03-28T14:37:43+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/bi/looker-studio/</loc>
+	<lastmod>2025-03-28T14:37:44+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/bi/microsoft-azure-power-bi-power-apps/</loc>
+	<lastmod>2025-03-28T14:37:44+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/kubernetes/container-orchestration/</loc>
+	<lastmod>2025-03-28T14:37:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/kubernetes/serverless-event-driven/</loc>
+	<lastmod>2025-03-28T14:37:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/kubernetes/service-mesh/</loc>
+	<lastmod>2025-03-28T14:37:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/kubernetes/virtualization/</loc>
+	<lastmod>2025-03-28T14:37:46+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/kubernetes/machine-learning-ai/</loc>
+	<lastmod>2025-03-28T14:37:46+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/sdn/calico/</loc>
+	<lastmod>2025-03-28T14:37:47+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/sdn/cilium/</loc>
+	<lastmod>2025-03-28T14:37:47+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/devsecops/zap-dast/</loc>
+	<lastmod>2025-03-28T14:37:48+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/devsecops/sonarqube-sast/</loc>
+	<lastmod>2025-03-28T14:37:48+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/devsecops/webscarab-iast/</loc>
+	<lastmod>2025-03-28T14:37:49+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/devsecops/snyk-sca/</loc>
+	<lastmod>2025-03-28T14:37:49+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/devsecops/kics-iac/</loc>
+	<lastmod>2025-03-28T14:37:50+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/devsecops/jenkins-tekton-argocd/</loc>
+	<lastmod>2025-03-28T14:37:50+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/databases/redis/</loc>
+	<lastmod>2025-03-28T14:37:51+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/databases/mariadb/</loc>
+	<lastmod>2025-03-28T14:37:51+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/databases/mongodb/</loc>
+	<lastmod>2025-03-28T14:37:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/databases/postgres/</loc>
+	<lastmod>2025-03-28T14:37:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/databases/cockroachdb/</loc>
+	<lastmod>2025-03-28T14:37:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/messaging/tyk/</loc>
+	<lastmod>2025-03-28T14:37:53+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/messaging/kong/</loc>
+	<lastmod>2025-03-28T14:37:53+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/messaging/apache-kafka/</loc>
+	<lastmod>2025-03-28T14:37:54+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/messaging/apach-mq/</loc>
+	<lastmod>2025-03-28T14:37:54+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/analytics/apache-ignite/</loc>
+	<lastmod>2025-03-28T14:37:55+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/analytics/apache-iceberg/</loc>
+	<lastmod>2025-03-28T14:37:55+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/analytics/apache-spark/</loc>
+	<lastmod>2025-03-28T14:37:56+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/analytics/apache-airflow/</loc>
+	<lastmod>2025-03-28T14:37:56+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/analytics/apache-debezium/</loc>
+	<lastmod>2025-03-28T14:37:57+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://mahity.com/learning/microsoft-viva/</loc>
+	<lastmod>2025-03-28T14:38:03+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+</urlset>

@@ -1,0 +1,13 @@
+node_modules/
+.next/
+deploy/
+.env
+.env.local
+.DS_Store
+out/
+cache/
+**/*.pack
+**/*.pack_
+**/*.tar
+**/*.zip
+**/*.node

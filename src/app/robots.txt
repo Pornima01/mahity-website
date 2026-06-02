@@ -1,0 +1,6 @@
+# Global settings for all search engines
+User-agent: *
+Disallow: /cgi-bin/
+
+# Sitemap location
+Sitemap: https://www.mahity.com/sitemap.xml
